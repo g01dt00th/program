@@ -60,7 +60,7 @@ struct ContentView: View {
             } //Form
                 
                 // displayMode - Выбор отображения надписи в шапке
-                .navigationBarTitle(Text("Список подключений"), displayMode: .large)
+                .navigationBarTitle(Text("Список подключений"), displayMode: .inline)
         } //NavigationView
         
     } //body
