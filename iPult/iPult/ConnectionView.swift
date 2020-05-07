@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ConnectionView: View {
     
-    @ObservedObject var list_Connect = ListConnect()
+    @EnvironmentObject var list_Connect: ListConnect
     
     let appContent = Connect()
     

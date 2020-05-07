@@ -17,7 +17,7 @@ struct ContentView: View {
         //UITableView.appearance().separatorStyle = .none
     }
     
-    @ObservedObject var list_Connect = ListConnect()
+    @EnvironmentObject var list_Connect: ListConnect
     
     var body: some View {
         NavigationView {
