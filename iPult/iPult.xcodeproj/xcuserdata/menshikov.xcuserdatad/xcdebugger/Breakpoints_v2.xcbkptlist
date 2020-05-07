@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA117493-E5CF-4806-A848-C8B28E36E6AF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7479853B-7DA0-4D79-B262-C79C42A32FC8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPult/XML_work.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "XML_Load()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7B1B285-9E7F-407F-9E81-6F09850F21F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPult/XML_work.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "XML_Load()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E562C2AF-9B5E-4863-9DBD-5C65809DF640"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPult/testFile.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPult/ConnectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1 - bf66d8994bc7cb8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of iPult.ConnectionView.typeServer : Swift.Int"
+                  moduleName = "iPult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/menshikov/Documents/SHIFT_DEVELOPER/iPult/iPult/ConnectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1 - 54f593728ee0207a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPult.ConnectionView.typeServer.getter : Swift.Int"
+                  moduleName = "iPult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/menshikov/Documents/SHIFT_DEVELOPER/iPult/iPult/ConnectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "151">
+               </Location>
+               <Location
+                  uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1 - e57dd601a450f446"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPult.ConnectionView.typeServer.setter : Swift.Int"
+                  moduleName = "iPult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/menshikov/Documents/SHIFT_DEVELOPER/iPult/iPult/ConnectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1 - 1b117f715f770775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPult.ConnectionView.typeServer.modify : Swift.Int"
+                  moduleName = "iPult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/menshikov/Documents/SHIFT_DEVELOPER/iPult/iPult/ConnectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1 - 76061c1d53baa346"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPult.ConnectionView.typeServer.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "iPult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/menshikov/Documents/SHIFT_DEVELOPER/iPult/iPult/ConnectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1 - 2b1a26f81982c14e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPult.ConnectionView.$typeServer.getter : SwiftUI.Binding&lt;Swift.Int&gt;"
+                  moduleName = "iPult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/menshikov/Documents/SHIFT_DEVELOPER/iPult/iPult/ConnectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "8FD7B7EE-B527-4A73-AC8A-BEC85CD2A1E1 - 14adec5d9cb3f1bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iPult.ConnectionView.init() -&gt; iPult.ConnectionView"
+                  moduleName = "iPult"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/menshikov/Documents/SHIFT_DEVELOPER/iPult/iPult/ConnectionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85A2686C-9BF1-455A-9440-96A0A54D7906"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPult/XML_work.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "parser(_:didStartElement:namespaceURI:qualifiedName:attributes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D65C5490-4EB2-421C-A6CB-75485F5B30B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPult/XML_work.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "XML_Save()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A75DD9AA-2BB3-4A65-9B34-A3804F180124"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iPult/DetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "DataPrepare()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
